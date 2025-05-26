@@ -17,41 +17,7 @@
 
 ## 🧠 System Architecture
 
-vtrace-lite/
-├── web/
-│   ├── templates/
-│   │   ├── base.html
-│   │   ├── dashboard.html
-│   │   ├── login.html
-│   │   ├── logs.html
-│   │   ├── manage_vm.html
-│   │   ├── resource_host.html
-│   │   ├── resource_menu.html
-│   │   ├── resource_monitor.html
-│   │   ├── resource_vm.html
-│   │   ├── scheduling.html
-│   │   ├── snapshots.html
-│   │   └── vms.html
-│   ├── app.py
-│   ├── encryption.key
-│   └── vm_manager.log
-├── auth.py
-├── config.enc
-├── config.json
-├── encryption_utils.py
-├── encryption.key
-├── logger_config.py
-├── main.py
-├── password.hash
-├── resource_logger.py
-├── resource_usage.csv
-├── vm_finder.py
-├── vm_manager.log
-├── vm_manager.py
-├── vm_monitor.py
-├── vm_scheduler.py
-├── vm_status.py
-└── requirements.txt
+(https://tree.nathanfriend.com/?s=(%27oJs!(%27fancy!true~fullPath!false~trailingSlash!true~rootDot!false)~7!(%277!%27VTrace-web-*templates-**base0dashboard06in06s0He_ILhostLmenuLFLI0Bing0snapshots0IsCapp3*G*Kauth38.enc-8.jsA-4_utils3G6gE_83main3password.hash-26gE32usage.csv-9findE3K539F39BE39status3requirements.txt%27)~vEsiA!%271%27)*%20%20-%5Cn*0C*2re7_3.py-4encryJ59HE6log7source8cAfig9I_AonBschedulC.html-*EerFmAitorG4.key-HmanagIvmJptiAK5.6-L02%01LKJIHGFECBA987654320-*)
 
 ---
 
