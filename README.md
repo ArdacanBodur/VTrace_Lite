@@ -27,7 +27,7 @@
 
 - Python 3.9+
 - pip
-- VirtualBox, QEMU, or KVM installed (VM-based ops)
+- VMware Workstation
 
 ### Backend Setup
 
